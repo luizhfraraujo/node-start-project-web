@@ -1,0 +1,23 @@
+{
+  "name": "ntask-web",
+  "description": "Versão web do gerenciador de tarefas",
+  "main": "",
+  "authors": [
+    "Caio Ribeiro Pereira"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/tir4y/node-start-project-web",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendors/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Materialize": "materialize#~0.97.6",
+    "satellizer": "~0.14.0"
+  }
+}
